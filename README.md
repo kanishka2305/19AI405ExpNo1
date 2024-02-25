@@ -227,3 +227,4 @@ print(environment.status)
 print(agent.performance)
 ```
 ### Output:
+![image](https://github.com/kanishka2305/19AI405ExpNo1/assets/113497357/85c18f95-f1bc-4363-a08e-3602684a442a)
