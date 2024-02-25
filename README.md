@@ -229,3 +229,7 @@ print(agent.performance)
 ### Output:
 ![image](https://github.com/kanishka2305/19AI405ExpNo1/assets/113497357/9e82d12a-cea2-450d-9517-aa8a3c24305b)
 
+### Result:
+Thus,the program for vaccum cleaner AI agent is executed successfully.
+
+
